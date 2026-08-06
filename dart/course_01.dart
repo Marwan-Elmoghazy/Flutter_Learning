@@ -1,5 +1,7 @@
 void main() {
 
+  //-------------------------------------------------------------------------------------
+  
   // A string in dart is declared using the 'String' keyword with capital 'S'
   String age = "23";
 
