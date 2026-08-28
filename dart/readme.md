@@ -5,6 +5,7 @@
 
 # Videos
 - [Dart SDK Install For Windows via Chocolatey](https://youtu.be/0XTvXCadqGo?si=NcdywLvNkkGrJnKE)
+- [VScode Extentions For Dart](https://www.youtube.com/watch?v=8rXSaCy-tRw&list=PLXsBti0EwQ6xapoC_kgAE3_BcIbGglohS&index=12)
 
 # Links
 - [Dart Tutorials](https://dart-tutorial.com/)
