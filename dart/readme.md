@@ -1,3 +1,7 @@
+![Dart Banner](banner.webp)
+<center>The Learning Process Of Dart By<br><b>Marwan Elmogahzy</b><br>
+_________________</center>
+
 # PlayLists
 - [Wael Abo Hamza](https://www.youtube.com/playlist?list=PL93xoMrxRJIutlMCImcV3CYMmjS0MmlWL)
 - [Elmobeen Academy Full Playlist](https://www.youtube.com/playlist?list=PLXsBti0EwQ6xapoC_kgAE3_BcIbGglohS) ⭐
@@ -11,3 +15,8 @@
 - [Dart Tutorials](https://dart-tutorial.com/)
 - [CATReloaded RoadMaps](https://github.com/CATReloaded/CATReloaded-Circles-Roadmaps)
 - [DartPad (Online Compilor/Editor)](https://dartpad.dev/)
+
+## Quick-Reach To Notes
+- [Variables](01_Variables.dart)
+- [Comments](02_Comments.dart)
+- [Operations](03_Operations.dart)
