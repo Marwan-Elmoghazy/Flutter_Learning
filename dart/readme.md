@@ -1,6 +1,13 @@
+<div align="center">
+
 ![Dart Banner](banner.webp)
-<center>The Learning Process Of Dart By<br><b>Marwan Elmogahzy</b><br>
-_________________</center>
+
+The Learning Process Of Dart By  
+**Marwan Elmogahzy**
+
+
+
+</div>
 
 # PlayLists
 - [Wael Abo Hamza](https://www.youtube.com/playlist?list=PL93xoMrxRJIutlMCImcV3CYMmjS0MmlWL)
